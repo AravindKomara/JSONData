@@ -1,0 +1,33 @@
+
+
+{
+	"company": "Genpact",                                      
+	"landline": "040-3068-7140",
+	"established_year": "1997",
+	"domains": [
+		"Healthcare",
+		"Insurance",
+		"Banking",
+		"Finanicial"
+	],
+	"location": {
+		"lat": -38.383494,
+		"lng": 33.427362
+	},
+	"branchdetails": [
+		{
+			"name": "Hyderabad",
+			"phone": "123456"
+		},
+		{
+			"name": "Pune",
+			"phone": "789654"
+		},
+		{
+			"name": "Noida",
+			"phone": "632589"
+		}
+	],
+	"website": "http://www.genpact.com"
+
+}
